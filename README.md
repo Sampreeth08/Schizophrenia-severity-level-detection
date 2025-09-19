@@ -1,7 +1,7 @@
 # Schizophrenia-severity-level-detection
- This project aims at predicting the Schizophrenia severity level by analyzing a  dataset comprising of the above mentioned observable and Testable symptoms, using  decision Tree classification with different levels of depth. 
+ This project aims at predicting the Schizophrenia severity level by analyzing the dataset comprising of observable and Testable symptoms, using  decision Tree classification with different levels of depth. 
 
- This project is a mini application for storing, analyzing, and predicting schizophrenia symptoms using a GUI built with PyQt5 and machine learning models.
+ This is a mini application for storing, analyzing, and predicting schizophrenia symptoms using a GUI built with PyQt5 and machine learning models.
 
 ## Features
 
